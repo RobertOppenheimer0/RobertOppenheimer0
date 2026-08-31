@@ -28,7 +28,7 @@ I'm Robert :sunglasses:
 
 <br>
 
-<img src="https://cdn.discordapp.com/attachments/1213904200602222603/1543983203902169170/7f709f18212162c78291f79f23705121.jpg?ex=6a96d9e9&is=6a958869&hm=429048f9de66a725fc6eeead76393eef8db3beb822bed45b1d0462e2cb7c0a86&" width="1500">
+<img src="https://cdn.discordapp.com/attachments/1543911223668637759/1544012076786126878/41e6804c4cdaccf6f866e59d84d7f6a7.jpg?ex=6a96f4cd&is=6a95a34d&hm=f2c0907c3937bd57c3781f492a1f9cf5c58637c2b3cd2316dd97bf4aab7432c4&" width="1500">
 
 <details>
 <summary>:bar_chart: Recent Anilist Activity</summary>
@@ -87,7 +87,8 @@ I'm Robert :sunglasses:
 </details>
 
 <details>
-<summary>:girl: List Favorites Character</summary>
+<summary>:girl: My PC Character</summary>
+<img src="https://cdn.discordapp.com/attachments/1543911223668637759/1544012077172129853/8004b1f93c22a60890cdb1c82bfac919.jpg?ex=6a96f4cd&is=6a95a34d&hm=aeb46afc5b949e4068f4c2d3c54ccd9ee0bb9af45648471e5158ab41833131ca&" width="250">
   
 <!-- favorites_characters starts -->
 * [Mahiru Shiina](https://anilist.co/character/195602)
