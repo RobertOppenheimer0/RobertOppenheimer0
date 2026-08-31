@@ -118,7 +118,7 @@ I'm Robert :sunglasses:
 
 Feel free to contact me :yum:
 <br><br>
-<a href="https://t.me/Marc1_Leg1t" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
+<a href="https://t.me/Marc1_Leg1t" target="_blank"><img src="https://cdn.discordapp.com/attachments/1213904200602222603/1543985084531744808/free-icon-telegram-2111646.png?ex=6a96dbaa&is=6a958a2a&hm=de413d0da27e3204cf9a60a79d1c1e70c55fc1051d96d7a74acbc49bbd6528b5&"></a>
 <a rel="me" href="https://moe.onl/@moepoi" target="_blank"><img src="https://img.shields.io/badge/Mastodon-%40moepoi-blueviolet"></a>
 <a href="https://linkedin.com/in/moepoi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-moepoi-informational"></a>
 <a href="mailto:moe@poi.lol"><img src="https://img.shields.io/badge/Email-moe%40poi.lol-orange"></a>
