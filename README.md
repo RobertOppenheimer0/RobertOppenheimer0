@@ -28,7 +28,7 @@ I'm Robert :sunglasses:
 
 <br>
 
-<img src="https://cdn.discordapp.com/attachments/1213904200602222603/1543983203902169170/7f709f18212162c78291f79f23705121.jpg?ex=6a96d9e9&is=6a958869&hm=429048f9de66a725fc6eeead76393eef8db3beb822bed45b1d0462e2cb7c0a86&" width="500">
+<img src="https://cdn.discordapp.com/attachments/1213904200602222603/1543983203902169170/7f709f18212162c78291f79f23705121.jpg?ex=6a96d9e9&is=6a958869&hm=429048f9de66a725fc6eeead76393eef8db3beb822bed45b1d0462e2cb7c0a86&" width="1500">
 
 <details>
 <summary>:bar_chart: Recent Anilist Activity</summary>
