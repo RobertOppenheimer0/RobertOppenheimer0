@@ -68,7 +68,7 @@ I'm Robert :sunglasses:
 
 <details>
 <summary>:book: My PC </summary>
-<img src="https://cdn.discordapp.com/attachments/1543911223668637759/1544012077172129853/8004b1f93c22a60890cdb1c82bfac919.jpg?ex=6a96f4cd&is=6a95a34d&hm=aeb46afc5b949e4068f4c2d3c54ccd9ee0bb9af45648471e5158ab41833131ca&" width="250">
+<img src=""C:\Users\User\Downloads\cfef441a58c60f84263ab8f6c58f4625.jpg"" width="250">
   
 <!-- favorites_manga starts -->
 <!-- favorites_manga ends -->
