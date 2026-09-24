@@ -61,19 +61,7 @@ I'm Robert :sunglasses:
 * [Code Geass](https://anilist.co/anime/1575)
 * [MONSTER](https://anilist.co/anime/19)
 * [Initial D](https://anilist.co/anime/185)* [Mushoku Tensei1](https://anilist.co/anime/108465)
-* [Mushoku Tensei1.2](https://anilist.co/anime/127720)
-* [Mushoku Tensei1.3](https://anilist.co/anime/141534)
-* [Mushoku Tensei2](https://anilist.co/anime/146065)
-* [Mushoku Tensei2.1](https://anilist.co/anime/166873)
-* [Mushoku Tensei3](https://anilist.co/anime/178789)
-* [BLEACH](https://anilist.co/anime/269)
-* [Cyberpunk: Edgerunners](https://anilist.co/anime/120377)
-* [Cyberpunk: Edgerunners 2](https://anilist.co/anime/195539)
-* [Hagane no Renkinjutsushi](https://anilist.co/anime/5114)
-* [DEATH NOTE](https://anilist.co/anime/1535)
-* [Code Geass](https://anilist.co/anime/1575)
-* [MONSTER](https://anilist.co/anime/19)
-* [Initial D](https://anilist.co/anime/185)
+
 <!-- favorites_anime ends -->
 
 </details>
